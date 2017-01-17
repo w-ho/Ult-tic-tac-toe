@@ -52,7 +52,7 @@ public class BigGame extends Game {
 	public void intro() {
 		System.out.println(
 				"Welcome to ultimate tic-tac-toe. \nThe reason it is called ultimate is because we use a 3x3 board"
-						+ "but within each box is an extra 3x3 tic-tac-toe game.\nYou can win by winning on the small board to get 3 in a "
+						+ " but within each box is an extra 3x3 tic-tac-toe game.\nYou can win by winning on the small board to get 3 in a "
 						+ " row in the bigger board. \n \n \nHowever, here is where it gets interesting where ever your opponent goes"
 						+ " in the small board, you are have to go that board in the big board is your next move and vice versa."
 						+ "\n \n \n Good luck and Have fun. ");
